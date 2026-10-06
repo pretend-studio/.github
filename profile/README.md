@@ -2,10 +2,9 @@
                         ░░▒▒▓▓██  PRETEND  ██▓▓▒▒░░                        
                small web + interactive development practice                
                                                                            
-  - Contact ---------------------------------------------------------------
-  fill out inquiry form at <a href="https://www.pretend.tech">pretend.tech</a> or email                           
+  - Contact ---------------------------------------------------------------                      
   . <a href="https://www.pretend.tech">pretend.tech</a> ................................................... form  
-  . <a href="mailto:bianca@pretend.tech">bianca@pretend.tech</a> ........................................... email  
+  . <a href="mailto:bianca@pretend.tech">bianca@pretend.tech</a> .......................................... email  
                                                                            
   - Services --------------------------------------------------------------
                                                                            
