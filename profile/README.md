@@ -2,8 +2,8 @@
                         ░░▒▒▓▓██  PRETEND  ██▓▓▒▒░░                        
                small web + interactive development practice                
                                                                            
-  - Contact ---------------------------------------------------------------                      
-  . <a href="https://www.pretend.tech">pretend.tech</a> ................................................... form  
+  + Contact ---------------------------------------------------------------                      
+  . <a href="https://www.pretend.tech">pretend.tech</a> .................................................. form  
   . <a href="mailto:bianca@pretend.tech">bianca@pretend.tech</a> .......................................... email  
                                                                            
   - Services --------------------------------------------------------------
@@ -21,10 +21,10 @@
   technical partnership         e-commerce              bespoke site       
   new business support                               custom cms (sanity)   
 
-  - GitHub ----------------------------------------------------------------
-  . Repos: ........................ 21 | Commits this year: .............. 630 
+  + GitHub ----------------------------------------------------------------
+  . Repos: ...................... 21 | Commits this year: ............. 630 
                                                                            
-  - Recent work -----------------------------------------------------------
+  + Recent work -----------------------------------------------------------
   . <a href="https://unearthen.com">unearthen.com</a> ................................................ ■ LIVE  
   . <a href="https://parker.studio">parker.studio</a> ................................................ ■ LIVE  
   . <a href="https://greendisco.earth">greendisco.earth</a> ............................................. ■ LIVE  
